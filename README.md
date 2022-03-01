@@ -2,6 +2,10 @@
 
 my public markdown slides
 
+## Slide Lists
+
+* 如何使用 Near Indexer Framework: [slide](pdf/near_indexer_framework.pdf) [video](https://ke.qq.com/course/3616174?tuin=d34bd514&taid=12704208322506158)
+
 ## Install tools
 
 * `npm install -g @marp-team/marp-cli`
